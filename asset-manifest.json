@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/claudia/static/css/main.ca44e2c8.css",
+    "main.js": "/claudia/static/js/main.54a5aaa1.js",
+    "static/js/787.99c72388.chunk.js": "/claudia/static/js/787.99c72388.chunk.js",
+    "static/media/vid1.mp4": "/claudia/static/media/vid1.0bd793478f8b1fb745f3.mp4",
+    "static/media/shelf.jpg": "/claudia/static/media/shelf.50e6533c0f740cd9a5f7.jpg",
+    "static/media/outside.jpg": "/claudia/static/media/outside.a0d52980f1b9e9f51e85.jpg",
+    "static/media/coffee.jpeg": "/claudia/static/media/coffee.1e983c25116072fa9faf.jpeg",
+    "static/media/logo.svg": "/claudia/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/claudia/index.html",
+    "main.ca44e2c8.css.map": "/claudia/static/css/main.ca44e2c8.css.map",
+    "main.54a5aaa1.js.map": "/claudia/static/js/main.54a5aaa1.js.map",
+    "787.99c72388.chunk.js.map": "/claudia/static/js/787.99c72388.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca44e2c8.css",
+    "static/js/main.54a5aaa1.js"
+  ]
+}
