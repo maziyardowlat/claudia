@@ -1,0 +1,35 @@
+.intro{
+    position: relative;
+
+}
+
+.text{
+    position: absolute;
+    right: 50%;
+    left: 50%;
+    bottom: 15%;
+}
+
+.img_1{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 40px;
+    align-items: center;
+    font-family: "Bentham";
+    /* box-shadow: inset 0 0 0 1000px rgba(39, 41, 51, 0.1); */
+    object-fit: contain;
+
+}
+
+.team-intro{
+    font-size: 30px;
+    align-items: center;
+    text-align:left;
+    justify-content:center;
+    line-height: 300px; 
+    font-family: 'Bentham';
+    flex: 1
+}
