@@ -1,7 +1,7 @@
 {
   "name": "claudia",
   "version": "0.1.0",
-  "homepage": "claudiabook.ca",
+  "homepage": "https://maziyardowlat.github.io/claudia/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.5",
